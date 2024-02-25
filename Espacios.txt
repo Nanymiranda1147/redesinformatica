@@ -1,0 +1,5 @@
+Non-breaking space  |&nbsp;&nbsp;&nbsp;|
+En space            |&ensp;|
+Em space            |&emsp;|
+Thin space          |&thinsp;|
+Standard space      |&#20;|
